@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP HIR11-21C
+D EMITTER IR 850NM 65MA 1206 
+K IR 850nm infrared
+F http://www.everlight.com/file/ProductFile/201407052100495806.pdf
+$ENDCMP
+#
+$CMP OP580DA
+D PHOTODARLINGTON NPN CLR PLCC-2
+K photodarlington npn PLCC
+F http://www.ttelectronics.com/sites/default/files/download-files/OP580DA.pdf
+$ENDCMP
+#
+#End Doc Library
