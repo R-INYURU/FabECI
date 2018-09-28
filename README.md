@@ -1,2 +1,2 @@
 # FabECI
-FabLab Electronic Component Invetory library for KiCAD 5
+FabLab Electronic Component Inventory library for KiCAD 5
