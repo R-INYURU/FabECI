@@ -1,4 +1,4 @@
-(module HIR11-21C (layer F.Cu) (tedit 5BAE07AF)
+(module HIR11-21C (layer F.Cu) (tedit 5BAE2B65)
   (descr http://www.everlight.com/file/ProductFile/201407052100495806.pdf)
   (tags "1206_* ")
   (attr smd)
@@ -25,4 +25,9 @@
   (fp_line (start -2.5 -1.1) (end 1.6 -1.1) (layer F.SilkS) (width 0.15))
   (pad 2 smd roundrect (at 1.4875 0) (size 1.5 1.6) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.175))
   (pad 1 smd roundrect (at -1.4875 0) (size 1.5 1.6) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.175))
+  (model ${FABLAB_INVETORY_LIB}/3Dshapes/FabECI.3dshapes/HIT11-21C.step
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
